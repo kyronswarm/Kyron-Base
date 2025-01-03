@@ -2,7 +2,7 @@
 
 # `Agent Kyron`
 
-Follow our twitter! @kyronswarm
+- [Follow our Twitter](https://x.com/kyronswarm)
 
 [Installation](./docs/installation.md) •
 [How to update](./docs/installation.md#how-to-update-agent-Kyron) •
