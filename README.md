@@ -43,8 +43,6 @@ https://github.com/user-attachments/assets/c168759d-57d8-4b43-b62a-1026afcf52e6
 - In the case of the first agent in the chain (Agent 0), the superior is the human user; the agent sees no difference.
 - Every agent can create its subordinate agent to help break down and solve subtasks. This helps all agents keep their context clean and focused.
 
-![Multi-agent](docs/res/physics.png)
-![Multi-agent 2](docs/res/physics-2.png)
 
 4. **Completely Customizable and Extensible**
 
@@ -54,7 +52,6 @@ https://github.com/user-attachments/assets/c168759d-57d8-4b43-b62a-1026afcf52e6
 - Every prompt, every small message template sent to the agent in its communication loop can be found in the **prompts/** folder and changed.
 - Every default tool can be found in the **python/tools/** folder and changed or copied to create new predefined tools.
 
-![Prompts](/docs/res/prompts.png)
 
 5. **Communication is Key**
 
@@ -79,9 +76,6 @@ https://github.com/user-attachments/assets/c168759d-57d8-4b43-b62a-1026afcf52e6
 
 Click to open a video to learn how to install Agent Kyron:
 
-[![Testing Video](/docs/res/new_vid.jpg)](https://www.youtube.com/watch?v=cHDCCSr1YRI&t=24s)
-
-A detailed setup guide for Windows, macOS, and Linux with a video can be found in the Agent Kyron Documentation at [this page](./docs/installation.md).
 
 ### ⚡ Quick Start
 
@@ -98,14 +92,12 @@ docker run -p 50001:80 frdel/agent-Kyron-run
 
 ## 🐳 Fully Dockerized, with Speech-to-Text and TTS
 
-![Settings](docs/res/settings-page-ui.png)
 
 - Customizable settings allow users to tailor the agent's behavior and responses to their needs.
 - The Web UI output is very clean, fluid, colorful, readable, and interactive; nothing is hidden.
 - You can load or save chats directly within the Web UI.
 - The same output you see in the terminal is automatically saved to an HTML file in **logs/** folder for every session.
 
-![Time example](/docs/res/time_example.jpg)
 
 - Agent output is streamed in real-time, allowing users to read along and intervene at any time.
 - No coding is required; only prompting and communication skills are necessary.
