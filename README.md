@@ -25,7 +25,6 @@ Follow our twitter! @kyronswarm
 - Agent Kyron is not pre-programmed for specific tasks (but can be). It is meant to be a general-purpose personal assistant. Give it a task, and it will gather information, execute commands and code, cooperate with other agent instances, and do its best to accomplish it.
 - It has a persistent memory, allowing it to memorize previous solutions, code, facts, instructions, etc., to solve tasks faster and more reliably in the future.
 
-![Agent 0 Working](/docs/res/ui-screen-2.png)
 
 2. **Computer as a Tool**
 
@@ -87,8 +86,6 @@ docker run -p 50001:80 frdel/agent-Kyron-run
 # Visit http://localhost:50001 to start
 ```
 
-- Developers and contributors: download the full binaries for your system from the [releases page](https://github.com/frdel/agent-Kyron/releases) and then follow the instructions [provided here](./docs/installation.md#in-depth-guide-for-full-binaries-installation).
-
 ## 🐳 Fully Dockerized, with Speech-to-Text and TTS
 
 
@@ -122,15 +119,6 @@ docker run -p 50001:80 frdel/agent-Kyron-run
 2. The agent may inadvertently alter its operating environment; cleaning up the `work_dir` often fixes this.
 3. Agents might loop in multi-agentic interactions, leading to unexpected behaviors.
 
-## 📚 Read the Documentation
-
-| Page | Description |
-|-------|-------------|
-| [Installation](./docs/installation.md) | Installation, setup and configuration |
-| [Usage](./docs/usage.md) | Basic and advanced usage |
-| [Architecture](./docs/architecture.md) | System design and components |
-| [Contributing](./docs/contributing.md) | How to contribute |
-| [Troubleshooting](./docs/troubleshooting.md) | Common issues and their solutions |
 
 ## 🎯 Changelog
 
@@ -168,6 +156,4 @@ docker run -p 50001:80 frdel/agent-Kyron-run
 
 ## 🤝 Community and Support
 
-- [Join our Discord](https://discord.gg/B8KZKNsPpj) for live discussions or [visit our Skool Community](https://www.skool.com/agent-Kyron).
-- [Follow our YouTube channel](https://www.youtube.com/@AgentKyronFW) for hands-on explanations and tutorials
-- [Report Issues](https://github.com/frdel/agent-Kyron/issues) for bug fixes and features
+- [Follow our Twitter](https://x.com/kyronswarm)
