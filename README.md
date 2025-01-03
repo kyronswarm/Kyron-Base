@@ -4,11 +4,6 @@
 
 - [Follow our Twitter](https://x.com/kyronswarm)
 
-[Installation](./docs/installation.md) •
-[How to update](./docs/installation.md#how-to-update-agent-Kyron) •
-[Documentation](./docs/README.md) •
-[Usage](./docs/usage.md)
-
 </div>
 
 
