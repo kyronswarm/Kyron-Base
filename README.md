@@ -11,7 +11,6 @@ Follow our twitter! @kyronswarm
 
 </div>
 
-https://github.com/user-attachments/assets/c168759d-57d8-4b43-b62a-1026afcf52e6
 
 ## A personal, organic agentic framework that grows and learns with you
 
