@@ -2,7 +2,7 @@
 
 # `Agent Kyron`
 
-[![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)]((https://x.com/kyronswarm))
+[Our Twitter]((https://x.com/kyronswarm))
 
 [Installation](./docs/installation.md) •
 [How to update](./docs/installation.md#how-to-update-agent-Kyron) •
